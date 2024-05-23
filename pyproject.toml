@@ -1,0 +1,5 @@
+[project]
+name = "Name"
+description = "Description"
+version = "0.0.1"
+dependencies = ["flask"]
